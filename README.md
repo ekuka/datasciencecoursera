@@ -1,2 +1,2 @@
-# datasciencecoursera1
+# datasciencecoursera
 My first coursera project
